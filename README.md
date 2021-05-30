@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Abhijit Ojha
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Blockchain
-- 💞️ I’m looking to collaborate on ... Hot Technologies 
+- 💞️ I’m looking to collaborate on ... trendy Technologies 
 - 📫 How to reach me ... abhijit.pinku131@gmail.com
 
 <!---
